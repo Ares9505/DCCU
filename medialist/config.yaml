@@ -5,6 +5,6 @@ file_formats:
   audio:
   - all
 ids_to_retry: []
-last_read_message_id: 2226375
+last_read_message_id: 2278060
 media_types:
 - audio

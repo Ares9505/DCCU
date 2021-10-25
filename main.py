@@ -93,10 +93,10 @@ if __name__ == "__main__":
 	#----------------------------------------
 
 	# Conecting with dropbox api
-	# dbx = dropbox.Dropbox(config['dropbox_token'])
+	dbx = dropbox.Dropbox(config['dropbox_token'])
 	
 	# Upload to dropbox
-	# start_process(upload,[base_dir, upload_pagination, dbx,config['index']])
+	start_process(upload,[base_dir, upload_pagination, dbx,config['index']])
 
 	
 

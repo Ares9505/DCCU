@@ -1,0 +1,100 @@
+400,Mundo de Alabanzas,,Hay Poder En El Nombre de Cristo (Cadenas Romper)
+401,Nación Santa,,Mi Guerrero
+402,Majid Bekkas, Goran Kajfes, Jesper Nordenström, Stefan Pasborg,,Annabi
+403,New Found Glory,,Intro
+404,Anand Bakshi, Jatin-Lalit,,Rhythms Of Mohabbatein (Instrumental)
+405,Mundo de Alabanzas,,Yo Tambien (Un Billon de Veces)
+406,Nación Santa,,Aleluya
+407,Janet Aponte,,En El Nombre De Jesus
+408,Rosa Karina,,El Llamado
+409,Ishaan, Udbhav, Shweta Pandit, Manohar Shetty, Pritha Mazumdar, Jatin-Lalit, Anand Bakshi, Sonali Bhatawdekar,,Pairon Mein Bandhan Hai
+410,Janet Aponte,,Llename Senor
+411,Stretto,,Gracias
+412,Nación Santa,,Tu Tienes Dinamita
+413,Stretto,,Jesus
+414,Arctic Monkeys,,Cornerstone
+415,Stretto,,Himno de Victoria
+416,Mundo de Alabanzas,,Gracia Sublime Es
+417,Evoken,,Grim Eloquence
+418,Janet Aponte,,Provoca
+419,Shreya Ghoshal, Ishan Mitra,,Esho Hey
+420,Udbhav, Shweta Pandit, Manohar Shetty, Pritha Mazumdar, Jatin-Lalit, Anand Bakshi, Sonali Bhatawdekar,,Chalte Chalte (Part-2)
+421,Daniel Adni,,Songs without Words (1996 - Remaster): Agitato in F Sharp Minor, Op.19 No. 5
+422,Nación Santa,,De Dios Es el Poder
+423,Atramentus,,Stygian I: From Tumultuous Heavens... (Descended Forth the Ceaseless Darkness)
+424,Elvin Perez,,Derrotado
+425,Mundo de Alabanzas,,Tus Maravillas Vivire (Live In The Wonderful)
+426,Pedro "Periquin" Castro,,Arrepentida
+427,Stretto,,Himno a Santa María de Jesús Sacramentado (En Vivo)
+428,Mundo de Alabanzas,,Volver A Vivir
+429,Nación Santa,,Apoderate del Manto
+430,Stretto,,Mi Vida Esta Llena de Tí
+431,Che Ecru,,INFAMY
+432,System of a Down,,Kill Rock 'n Roll
+433,Boston Bun,,Don't Wanna Dance
+434,System of a Down,,Soldier Side
+435,System of a Down,,Vicinity Of Obscenity
+436,New Found Glory,,I Don't Wanna Know
+437,Myrkur,,Vinter
+438,Mundo de Alabanzas,,Creo En Ti
+439,Arctic Monkeys,,The Hellcat Spangled Shalalala
+440,Nación Santa,,Su Gran Amor
+441,System of a Down,,She's Like Heroin
+442,Nación Santa,,Alabando Al Señor
+443,Nación Santa,,Levantate Y Camina
+444,Sorriso Maroto, MC WM, Parangolé,,Fogo na Gasolina (Ao Vivo)
+445,Nación Santa,,No Te Olvides
+446,Mundo de Alabanzas,,Fuego Que No Se Apague El Fuego (En Vivo)
+447,Nación Santa,,Dame Fe
+448,George Thorogood & The Destroyers,,Blue Highway
+449,Clark,,Amor (C.B. Rework)
+450,George Thorogood & The Destroyers,,Back To Wentzville
+451,Mundo de Alabanzas,,Dios Grandioso (En Vivo)
+452,Disembowelment,,Cerulean Transience of All My Imagined Shores
+453,Stretto,,Me Robaste el Corazón
+454,Nación Santa,,Dios Esta En Este Lugar
+455,Dans Dans,,Chi Mai
+456,Udit Narayan, Kavita Krishnamurthy, G. V. Prakash, Shradha,,Kuchchi Kuchchi Rakkamma (Bombay / Soundtrack Version)
+457,Nación Santa,,Cristo Vive
+458,Alex Turner,,Stuck on the puzzle
+459,Janet Aponte,,Hasta Que Lo Sientas (Coro)
+460,Mundo de Alabanzas,,Tu Amor Es Fiel
+461,Alex Turner,,Piledriver waltz
+462,Nación Santa,,Jesus Te Llama Hoy
+463,Mundo de Alabanzas,,En Ti Confia Mi Corazon
+464,Erykah Badu,,Didn't Cha Know
+465,Kaushiki Chakraborty,,Ruthey Naina
+466,Erykah Badu,,Penitentiary Philosophy
+467,Nación Santa,,Aleluya
+468,Nación Santa,,La Vos De Dios
+469,Mundo de Alabanzas,,El Cordero y El Leon (En Vivo)
+470,System of a Down,,Dreaming
+471,Nación Santa,,Dependo De Ti
+472,Iron Maiden,,No Prayer for the Dying (2015 Remaster)
+473,Iron Maiden,,The Assassin (2015 Remaster)
+474,Janet Aponte,,Grito de Guerra (En Vivo)
+475,Bebo Valdés, Chucho Valdes,,Tres Palabras
+476,Janet Aponte,,Cumplimiento (feat. Caleb Villalongo)
+477,George Thorogood & The Destroyers,,Nobody But Me
+478,Nación Santa,,Yo Quiero Sentir
+479,Mesut Kurtis, Sami Yusuf,,Burdah
+480,New Found Glory,,Your Biggest Mistake
+481,Nación Santa,,El Espiritu
+482,A.R. Rahman,,Bombay Theme (Bombay / Soundtrack Version)
+483,Janet Aponte,,Declarando en Fe (En Vivo)
+484,Crippled Black Phoenix,,Cry of Love
+485,Mundo de Alabanzas,,Griten a Dios Con Voz de Triunfo (En Vivo)
+486,Various Artists, Orlando Lozada,,En Tu Presencia
+487,Janet Aponte,,Espiritu Santo (En Vivo)
+488,Various Artists, Johnny González,,Ataduras y Cadenas
+489,Iron Maiden,,If Eternity Should Fail
+490,Iron Maiden,,Hooks in You (2015 Remaster)
+491,Innumerable Forms,,Punishment in Flesh
+492,Nación Santa,,Yo Llegare (Coritos)
+493,Iron Maiden,,Fates Warning (2015 Remaster)
+494,Iron Maiden,,Public Enema Number One (2015 Remaster)
+495,Janet Aponte,,Hace Falta un Guerrero (En Vivo)
+496,Crippled Black Phoenix,,In the Night
+497,Nación Santa,,Medley Dos (Coritos)
+498,Pallavi, Anupama, Shuba,,Kuch Bhi Na Socho (Bombay / Soundtrack Version)
+499,Various Artists, Alberto Conde,,Habla por Mi

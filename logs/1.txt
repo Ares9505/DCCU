@@ -1,0 +1,100 @@
+100,Pedro "Periquin" Castro,,Nube gris
+101,Holy Soldier,,When the Reign Comes Down
+102,James Brown,,The Payback
+103,Holy Soldier,,Promise Man
+104,Pedro "Periquin" Castro,,Fina estampa (Piano version)
+105,Holy Soldier,,In the End
+106,Minow, Vale, House Music Bro,,Push Me
+107,Che Ecru,,Damage Freestyle
+108,Pedro "Periquin" Castro,,No me llames
+109,Martin Trevy, Hawk, Bluckther,,Circles
+110,Pedro "Periquin" Castro,,El guardian (Piano version)
+111,Holy Soldier,,Stranger
+112,New Found Glory,,Something I Call Personality
+113,Holy Soldier,,Promise Man (Promise Man Album Version)
+114,Morray ,,Quicksand
+115,Pedro "Periquin" Castro,,Amarraditos
+116,Pedro "Periquin" Castro,,Barlovento
+117,Mundo de Alabanzas,,Vivo Para Adorarte
+118,Pedro "Periquin" Castro,,José Antonio
+119,Pedro "Periquin" Castro,,Cuando llora mi guitarra (Piano version)
+120,Pedro "Periquin" Castro,,Cariño malo
+121,Pedro "Periquin" Castro,,Camino verde (Piano version)
+122,Hugo Henriquez, Pedro "Periquin" Castro,,Un Poco Màs
+123,Pedro "Periquin" Castro,,Rosa Angelina (Piano version)
+124,Mundo de Alabanzas,,Santo Santo
+125,Mundo de Alabanzas,,Ya No Soy Esclavo del Temor
+126,Eydís Evensen,,Wandering II
+127,Pedro "Periquin" Castro,,Secreto
+128,Holy Soldier,,Love Conquers All (Promise Man Album Version)
+129,Pedro "Periquin" Castro,,Nuestro secreto
+130,Pedro "Periquin" Castro,,Corazón
+131,Holy Soldier,,Grind (Promise Man Album Version)
+132,Pedro "Periquin" Castro,,Con Locura
+133,Mundo de Alabanzas,,Yo Vine a Alabar a Dios (En Vivo)
+134,Mundo de Alabanzas,,Glorioso Amor
+135,Holy Soldier,,Mumbo-Jumbo (Promise Man Album Version)
+136,Taylor Swift,,Fifteen (Taylor’s Version)
+137,Holy Soldier,,Break It Down (Promise Man Album Version)
+138,Pedro "Periquin" Castro,,La flor de la canela
+139,Mundo de Alabanzas,,Quien Dices Que Soy (Soy Hijo de Dios)
+140,Holy Soldier,,Rust (Promise Man Album Version)
+141,Holy Soldier,,Why Don't You Look Into Jesus
+142,Pedro "Periquin" Castro,,Todos vuelven (Piano version)
+143,Pedro "Periquin" Castro,,Alma llanera
+144,Mundo de Alabanzas,,El Señor es Mi Rey Mi Todo (En Vivo)
+145,Pedro "Periquin" Castro,,Egoismo
+146,Pedro "Periquin" Castro,,Madrugada llanera
+147,Mundo de Alabanzas,,Aun Asi Me Amas
+148,Holy Soldier,,Virtue and Vice
+149,Pedro "Periquin" Castro,,Propiedad privada
+150,Holy Soldier,,Love Is On the Way
+151,Pedro "Periquin" Castro,,Fatalidad
+152,Abhijeet Bhattacharya,,Ishq Chupta Nahin
+153,Mundo de Alabanzas,,Majestad
+154,Holy Soldier,,Gimme Shelter
+155,Pedro "Periquin" Castro,,Toy contento (Piano version)
+156,Pedro "Periquin" Castro,,Ansiedad (Piano version)
+157,New Found Glory,,Head On Collision
+158,Pedro "Periquin" Castro,,Azabache
+159,Che Ecru,,ROAMING
+160,Holy Soldier,,Hallow's Eve
+161,Pedro "Periquin" Castro,,Cinco Centavitos
+162,Pedro "Periquin" Castro,,Junto Al Jaguey
+163,Pedro "Periquin" Castro,,Odiame
+164,Mundo de Alabanzas,,Mi Roca
+165,Holy Soldier,,Crazy
+166,Mundo de Alabanzas,,Valiente y Esforzada
+167,Daniel Adni,,Songs without Words (1996 - Remaster): Andante espressivo in A Minor, Op.19 No. 2
+168,Hugo Henriquez, Pedro "Periquin" Castro,,Como Fue
+169,Mundo de Alabanzas,,Levantate
+170,Daniel Adni,,Mendelssohn: 6 Lieder ohne Worte, Book 5, Op. 62: VI. Allegretto grazioso
+171,Che Ecru,,Do Not Disturb
+172,Holy Soldier,,Virtue & Vice
+173,Pedro "Periquin" Castro,,Engañada
+174,Philippe Cassard,,Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo
+175,Pedro "Periquin" Castro,,Concierto en la llanura (Piano version)
+176,Daniel Adni,,Songs without Words (1996 - Remaster): Moderato in A Major, Op.19 No. 4
+177,Pedro "Periquin" Castro,,Nuestro Juramento (instrumental piano version)
+178,Pedro "Periquin" Castro,,Muchacha de ojazos negros
+179,Pedro "Periquin" Castro,,Interrogación
+180,Pedro "Periquin" Castro,,La venezolana
+181,Pedro "Periquin" Castro,,Devuélveme El Corazón
+182,Pedro "Periquin" Castro,,Un Disco Más
+183,Josue del Cid,,Dios de Milagros
+184,Josue del Cid,,Con Nuestra Alabanza
+185,Rosa Karina,,No Se Trata De Mi
+186,New Found Glory,,It's Been A Summer
+187,Pedro "Periquin" Castro,,Amor Sin Esperanza
+188,Péter Nagy,,Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30, No. 1, MWV U103
+189,Rosa Karina,,Testimonio
+190,Che Ecru,,All Alone
+191,System of a Down,,Know (Live at Irving Plaza, NYC, NY - January 1999)
+192,System of a Down,,War? (Live at Irving Plaza, NYC, NY - January 1999)
+193,Lata Mangeshkar,,Kaise Piya Se
+194,Rosa Karina,,Te Amo
+195,Rosa Karina,,Oramos
+196,System of a Down,,Johnny
+197,Mundo de Alabanzas,,Reinas Por La Eternidad
+198,Holy Soldier,,See No Evil
+199,Rosa Karina,,Rey de los Cielos
