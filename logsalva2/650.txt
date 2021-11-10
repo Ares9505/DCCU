@@ -1,0 +1,100 @@
+65000,Roberto Murolo,,Tammurriata nera
+65001,Steven Gutheinz,,Measures
+65002,Alireza Ghorbani, Mahyar Alizadeh,,Arghavan
+65003,Cari Lekebusch, Orion,,Tribe
+65004,MC Hollywood, Dj Tezinho,,Rave do After
+65005,Kleu,,No Way Home
+65006,Marcus Johnson,,18th & M
+65007,Kings of Convenience,,Rocky Trail
+65008,Softy, Pointy Features,,Falling Away
+65009,Kurt Hugo Schneider, Alyson Stoner & MAX,,Sweater Weather
+65010,The Beautified Project,,Broken Smile (feat. Antimatter)
+65011,Andrea Bocelli, Édith Piaf,,La vie en rose
+65012,Bensoul,,Medicine
+65013,Yestalgia, Bad Room Producer,,Talk to Me
+65014,M.G. Radhakrishnan, M.G. Sreekumar,,Allimar Kavil
+65015,Avicii, Nicky Romero,,I Could Be The One [Avicii vs Nicky Romero] (Nicktim - Didrick Remix)
+65016,Zmeyev,,Back To Home
+65017,Hillsong Young & Free,,Just Jesus (Lark Remix)
+65018,Shifted,,Resin & Lacquer
+65019,Danny Ocean,,Swing
+65020,Bebe Rexha, Pink Sweat$, Lunay,,On The Go (feat. Pink Sweat$ & Lunay)
+65021,Dylan Fuentes, Myke Towers, Dayme y El High,,Ajena (with Myke Towers & Dayme y El High)
+65022,Jmss,,Maple Tree in My Garden
+65023,Estelle, Kanye West,,American Boy
+65024,Morgenshtern,,DULO
+65025,Majid Adib,,Bekhand Bazam
+65026,Marc Anthony,,You Sang To Me
+65027,No.1,,Böyle İyi
+65028,Banan, Elaheh, Fakhtei, Akbar Golpaygani (Golpa), Marzieh,,Dast Beh Dastmalom
+65029,Jorge & Mateus,,O Sol Tá Dando Oi
+65030,Abdoreza Helali,,Naqe Dar Gel Neshinad (Original Mix)
+65031,El Sevillano, Eduardo De La Malena,,De Mi Cosecha (Remastered)
+65032,Antonello Rondi,,Munastero 'e santa chiara
+65033,Joyce Cooling,,Revolving Door
+65034,Bebe Rexha, Rick Ross,,Amore (feat. Rick Ross)
+65035,Jorge & Mateus,,Paradigmas
+65036,Ben Tankard, Paul Jackson Jr.,,Rainy Sunday
+65037,Musicalbasics,,The Arched Window
+65038,Jovem Dex,,Fogo
+65039,Jorge & Mateus,,Tudo Em Paz
+65040,Jesús Adrián Romero,,Solo Pienso En Ti
+65041,Recondite,,Cleric
+65042,Cage The Elephant,,Cigarette Daydreams
+65043,Hillsong Young & Free,,Let Go (Stripped Back)
+65044,Tedua, Garelli,,Badman
+65045,Rocio Jurado,,Ojos Verdes (Remasterizado)
+65046,Rocio Jurado,,Mira (Remasterizado)
+65047,Duquende, Saray Muñoz,,Canto de Despedida
+65048,Musicalbasics,,If You're Insane and You Know It
+65049,Rocio Jurado,,Soy de España (Remasterizado)
+65050,M-22, Rhea Melvin,,Gravity
+65051,Death,,Spirit Crusher (No Bass / 1998 Demos)
+65052,Jesús Adrián Romero,,Como La Brisa
+65053,Rocio Jurado,,¡Dolo...o...Ores! (Rumba Flamenca) (Remasterizado)
+65054,LADIPOE, Buju,,Feeling
+65055,Gabriele Roberto,,Solitudine
+65056,Tensal,,Cause 2 (Original Mix)
+65057,Stanislav Tolkachev,,Once a Cheater Always a Cheater
+65058,Brian Simpson,,Sky Watcher
+65059,Derek & The Dominos,,Bell Bottom Blues
+65060,El Sevillano,,En Memoria de Chacon
+65061,Abdoreza Helali,,Sine Zan Sine Bezan (Original Mix)
+65062,NateWantsToBattle, MandoPony,,Holiday (feat. MandoPony)
+65063,Abdoreza Helali,,Ammati Al Mazlouma (Original Mix)
+65064,El Sevillano,,Sin Ronear
+65065,Jesús Adrián Romero,,No Hay Paredes
+65066,Mecano,,El 7 de Septiembre
+65067,Abdoreza Helali,,Ey Bivafa Zamoone (Original Mix)
+65068,El Sevillano,,Por Qué Mentir
+65069,Lori Meyers,,Emborracharme
+65070,Miranda!,,Casi Feliz
+65071,Elton John,,Tiny Dancer
+65072,Musicalbasics,,Despacito
+65073,Jesús Adrián Romero,,Tienen Tu Color
+65074,Siavash Ghomayshi,,Pooch
+65075,Musicalbasics,,Megalovania Level 5
+65076,La Bien Querida,,De Momento Abril
+65077,Arde Bogotá,,Cariño
+65078,Preeti Pillai,,Theera Lahari
+65079,Guadiana,,Kyrie
+65080,Nakkia Gold, Wiz Khalifa, Bob Marley & The Wailers,,Justice (Get Up, Stand Up)
+65081,Cloud Nothings,,Nothing Without You
+65082,Nicky Jam, J Balvin,,X
+65083,Djamzer,,Untitled 49
+65084,Preeti Pillai,,Thammil Thammil
+65085,LOthief,,Dirty Talk
+65086,Antonello Rondi,,Simmo 'e Napule paisa'
+65087,Cal Harris Jr.,,Timeline
+65088,Bebe Rexha,,Sacrifice
+65089,Kero Kero Bonito,,Intro Bonito
+65090,Candy Dulfer,,11:58
+65091,Mzwakhe Mbuli,,Kwazulu Natal
+65092,Teddy Afro,,Wedding Song Remix
+65093,Abdoreza Helali,,Rasme Be Vallah [84] (Original Mix)
+65094,El Sevillano,,Un Mocito Presumido
+65095,Shabaka Hutchings, Kojey Radical,,No Gangster
+65096,AKB48,,Darashinai Aishikata
+65097,El Cabrero,,Al Llegar la Primavera
+65098,Power Alert Tones,,Knight Rider (Notification Sound Ringtone)
+65099,Death,,Bite the Pain (1997 Demos)

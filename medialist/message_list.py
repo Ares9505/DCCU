@@ -15,7 +15,7 @@ from utils.log import LogFilter
 from utils.meta import print_meta
 
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.ERROR)
 # logging.getLogger("pyrogram.session.session").addFilter(LogFilter())
 # logging.getLogger("pyrogram.client").addFilter(LogFilter())
 logger = logging.getLogger("media_downloader")

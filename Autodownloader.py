@@ -3,6 +3,9 @@ import os
 import subprocess
 import logging 
 import multiprocessing
+from storage_control import storageControl
+import  time
+import psutil
 
 def start_downloader():
 	subprocess.run(["python3","download.py"]) #for linux change for "python3 ..."
@@ -33,7 +36,7 @@ def listar(instancia: int, base_dir):
 
 
 if __name__ == "__main__":
-	logging.basicConfig(level = logging.INFO)
+	logging.basicConfig(level = logging.ERROR)
 	logging.info("#####MY FIRST JOB :)####")
 	base_dir = os.getcwd()
 	downloaders = 5
@@ -55,7 +58,11 @@ if __name__ == "__main__":
 			with open("state.txt" , "r") as file:
 				state = file.read()
 			
-			if state == "1":				
+			if state == "1":		
+				storageControl(time_between_check = 5,
+                       				 min_storage_percent = 60,
+                       				 max_storage_percent = 80,
+                        			downloader = instancia)		
 				listar(instancia,base_dir)
 				os.chdir(base_dir + "/Downloader_{}".format(instancia))
 				p = multiprocessing.Process(target = start_downloader)

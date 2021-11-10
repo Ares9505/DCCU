@@ -1,0 +1,100 @@
+85300,Corruco De Algeciras,,Fandangos 11
+85301,Manolo Vargas, Andrés Heredia,,Ahora Si Que Te Llamo (Siguiriyas)
+85302,Niño Del Museo,,Fandangos 4
+85303,Madonna,,La Isla Bonita
+85304,Canalejas De Puerto Real,,Navidad Sevillana
+85305,Peret,,Villancicos Gitanos
+85306,Sleep Lab,,Calibration of the Mind
+85307,El Loreño,,Villancicos Al Niño
+85308,Toño Y Su Grupo Centella,,Amor de Arena
+85309,Corruco De Algeciras, Manolo de Badajoz,,En Sus Brazos Llevaba María: Campanilleros
+85310,Los Jerezanos,,Ole Mi Niño
+85311,Niño de Utrera, Ramon Montoya,,Mujer Alejandra: Seguidillas Gitanas
+85312,Linkin Park,,Shadow of the Day
+85313,Toño Y Su Grupo Centella,,Donde Estas Amor
+85314,Rolando Chaparro, Krhizya,,Algo De Mí
+85315,Conal Fowkes,,You've Got That Thing
+85316,Manolo Caracol,,Yo no me gasto contigo
+85317,Dana Boulé,,Parlez-Moi D'amour
+85318,Linkin Park,,What I've Done
+85319,Luisa Ortega, Artura Pavon,,La Lola Se Va a los Puertos
+85320,Juanito Valderrama, Dolores Abril,,A española (feat. Dolores Abril)
+85321,Bugzy Malone,,Skeletons
+85322,LoFi Waiter,,Shukudai
+85323,Francois Parisi,,Ballad Du Paris
+85324,Pepe De Badajoz, Miguel Borrull,,Tan Solo Por Olvidar
+85325,RH+ Positivo,,Será Que Vai Chover_
+85326,Vanilla,,Footsteps
+85327,Vashti Bunyan,,Winter Is Blue
+85328,Manolo Caracol,,Qué desgracia es la mia
+85329,Yuvisney Aguilar,,Guajiro-Warhero
+85330,The Damned,,New Rose
+85331,Junkie XL,,Motorball
+85332,Juanito Valderrama,,Pena en Utrera
+85333,Enoch Light & The Charleston City All Stars,,Charleston
+85334,Pepe De Badajoz, Miguel Borrull,,De Rodillas Ante Un Altar
+85335,Curro De Utrera, Rafael el Codobés,,Viva el Puende del Genil (Media Granaína)
+85336,Pepe De Badajoz, Miguel Borrull,,Como tal Cosa Perdia
+85337,Alpha Brain Waves,,Study Music (Concentrate)
+85338,Vanilla,,Gigi
+85339,Manolo Caracol,,Gaditana
+85340,Trysail,,Tail Wind
+85341,Vashti Bunyan,,Wishwandrer
+85342,Luisa Ortega, Artura Pavon,,Evocacion de la Malagueña
+85343,Pepe De Badajoz, Miguel Borrull,,Hasta Los Santos Del Cielo
+85344,Vashti Bunyan,,I'd Like To Walk Around in Your Mind
+85345,Luisa Ortega, Artura Pavon,,Perdoname
+85346,Beni De Cadiz,,Canto Con el Corazon
+85347,Carmen de la Jara,,UN BESO DE AMOR Bulerias
+85348,RH+ Positivo,,Se Perdió
+85349,Sleepy Clouds,,Slowly Floating
+85350,K1 N15, Nito NB,,Free Em
+85351,Quitapena Orquesta,,La Bailarina
+85352,Manolo Caracol, Arturo Pavon, Luisa Ortega, Manolo Medina, Melchor de Marchena, Vicente Rojas, Enrique Ortega, Las Caracolas,,Pena y Amargura
+85353,Sleepy Tom,,The Girl Who Fell From The Sky (Laputa)
+85354,Curro De Utrera, Rafael el Codobés,,Las Hembras del Perchel (Fandangos de Curro)
+85355,Tion Wayne, Russ Millions, ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign, Darkoo,,Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]
+85356,Sebastian Krieg, Roman F.,,Kryptonite : Kryptonite
+85357,Pepe De Badajoz, Miguel Borrull,,Que La Vanida Tu tienes
+85358,Curro De Utrera, Rafael el Codobés,,El Puente (Tarantos)
+85359,Yuqi,,Bonnie & Clyde
+85360,Manolo Caracol,,De la gloria a la petenera
+85361,Luisa Ortega, Artura Pavon,,Por el Camino de Almonte
+85362,Manolo Caracol, Arturo Pavon, Luisa Ortega, Manolo Medina, Melchor de Marchena, Vicente Rojas, Enrique Ortega, Las Caracolas,,Palitos de Ron
+85363,Beni De Cadiz, Lola Campos,,Espinita (Bolero por Bulerías) [feat. Lola Campos]
+85364,Curro De Utrera, Rafael el Codobés,,Una Cordera (Serrana)
+85365,Vanilla,,Sunrise
+85366,Linkin Park,,Valentine's Day
+85367,Vashti Bunyan,,I Want To Be Alone
+85368,RH+ Positivo,,Desde El Alma
+85369,Luisa Ortega, Artura Pavon,,Fandangos de Enrique <El Almendro>
+85370,Vashti Bunyan,,Don't Believe
+85371,Luisa Ortega,,No Puedo Vivir Contigo
+85372,Carmen de la Jara,,Somos Bolero Bulerías
+85373,Joséphine Baker,,La conga blicoti
+85374,Bruno LC,,BLUNTED
+85375,Niño de Utrera,,Estando en el Altozano: Martinete
+85376,Beni De Cadiz,,Chuflillas del Beni
+85377,Luisa Ortega, Artura Pavon,,Que Va a Ser de Mi
+85378,Choker,,Lily
+85379,Juanito Valderrama, Dolores Abril,,Loca por Cazarme
+85380,Manolo Caracol,,Bulerias
+85381,La Paquera De Jerez,,Romance de Juan de Osuna
+85382,Carmen de la Jara,,Yo no digo (con Javier Ruibal)
+85383,Ramon Montoya, Manolo de Badajoz,,La Reina De La Alegria
+85384,Manolo Caracol,,Serrana
+85385,Morgenshtern,,DULO
+85386,FlowBack,,SUMMER SONG
+85387,Jaykae,,Chop (Henry the 8th)
+85388,NЮ,,В комнате
+85389,Paco de Lucía,,Soleares Populares
+85390,Mohammad Nouri, Shahram Golparian,,Jane Maryam 2021
+85391,El Carbonillero,,Soleares 2
+85392,Vanilla,,That Dream Again
+85393,Juanito Valderrama,,Torre de Tavira
+85394,Pepe De Badajoz, Miguel Borrull,,Mirando Por El Firmamento
+85395,FlowBack,,Be Mine
+85396,Sadfriendd, Dkoolpharaoh,,TargetAcquired2
+85397,Manolo Caracol,,Fandangos
+85398,Fisher,,Crowd Control (Original Mix)
+85399,Manolo Caracol,,Zambra

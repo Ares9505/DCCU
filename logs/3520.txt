@@ -1,0 +1,100 @@
+352000,Low Jhon,,New Place
+352001,Alvaro Soler,,No Te Entiendo
+352002,David Bowie,,China Girl (Live Montreal '87, 2018 Remaster)
+352003,Oumou Sangaré,,Kayini Wura
+352004,Tsehaytu Beraki,,Harestai
+352005,David Bowie,,Loving The Alien (Live Montreal '87, 2018 Remaster)
+352006,Martín Alvarado, Eero Koivistoinen, Alexi Tuomarila,,Apareciste Tú
+352007,Laura Pausini,,Ognuno ha la sua matita
+352008,The-Dream, Mariah Carey,,My Love
+352009,David Bowie,,Waiting For The Man (Live)
+352010,Terell Safadi, Tory Lanez,,Can't Forget (Karim Naas Remix)
+352011,Yaddi Bojia,,Oona Hone
+352012,Laura Pausini,,Come vivi senza me
+352013,Oumou Sangaré,,Saa Magni
+352014,David Bowie,,Loving the Alien (Live)
+352015,The Notorious B.I.G., Twista, Bone Thugs-N-Harmony,,Spit Your Game (feat. Twista & Bone Thugs-n-Harmony)
+352016,Alain Johannes,,Take a Break
+352017,The Notorious B.I.G., Diddy, Nelly, Jagged Edge, Avery Storm,,Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm)
+352018,David Bowie,,Suffragette City (Live)
+352019,David Bowie,,Aladdin Sane (Live; 2005 Mix; 2016 Remaster)
+352020,The Notorious B.I.G., The Game, Faith Evans,,1970 Somethin' (feat. The Game & Faith Evans)
+352021,Alvaro Soler,,Despiertos
+352022,David Bowie,,Queen Bitch (Live)
+352023,David Bowie,,The Motel (Live)
+352024,Ethioda, Mac Singe,,Freestyle
+352025,Anton Powers, Joe Stone,,Do Me Right
+352026,Yoga Fire,,Cero Plan
+352027,Marcos Yaroide,,Que Se Abran los Cielos
+352028,David Bowie,,'87 And Cry (Live Montreal '87, 2018 Remaster)
+352029,Mbosso,,Maajab
+352030,DJ Khaled, Drake, Rick Ross, Lil Wayne,,No New Friends
+352031,Boris Gardiner,,I Want To Wake Up With You
+352032,Darkiel, Amenazzy, Boy Wonder Cf,,Nadie Muere De Amor
+352033,The Notorious B.I.G., Scarface, Akon, Big Gee of Boyz N Da Hood,,Hustler's Story (feat. Scarface, Akon & Big Gee)
+352034,Tyga,,Mrs. Bubblegum
+352035,Alvaro Soler,,En Tu Piel
+352036,DJ Snake, Eptic,,SouthSide
+352037,David Bowie,,When I Live My Dream (Version 2)
+352038,Kany Garcia, Melendi,,A Mis Amigos (feat. Melendi)
+352039,Carlos Varela,,Como un Ángel
+352040,Ross Lynch,,A Billion Hits
+352041,Darkiel, Myke Towers, Noriel, Juhn,,Fuego En El Fuego (Remix)
+352042,Erykah Badu,,Booty
+352043,Les Patrons,,Nayou
+352044,Midnight Sister,,Clown
+352045,Tsehaytu Beraki,,Atzmtom Keskisom
+352046,R.I.O,,New Boots
+352047,Erykah Badu, Roy Ayers,,Cleva
+352048,Les Patrons, Jonas Rendbo,,Les patrons
+352049,Deep Jahi, Natural Bond Entertainment,,Inseparable
+352050,Darren Mudge, Aaron Zusha,,Ice Sparkles
+352051,Sharma Brothers,,Jaise Suraj Ki Garmi Se
+352052,David Bowie,,Thursday's Child
+352053,Mavado,,Goodbe to My Haters
+352054,David Bowie,,In The Heat Of The Morning (Mono)
+352055,David Bowie,,She's Got Medals
+352056,David Bowie,,Join The Gang
+352057,David Bowie,,What's Really Happening?
+352058,D12,,Play This Game
+352059,Roby Lion, Joel Selon,,Lipstick (feat. Joel Selon)
+352060,David Bowie,,Thursday's Child (Rock Mix)
+352061,Kenny Loggins,,Danger Zone
+352062,Mestre Plinio, Mestre Moa do Katende,,Meia Hora Só
+352063,Scott Bradlee's Postmodern Jukebox,,Talk Dirty
+352064,Mike Ejeagha,,Omekagu
+352065,NEEDTOBREATHE,,Give Me A Chance
+352066,David Bowie,,Heroes (Live)
+352067,Easily Embarrassed,,Time Holes
+352068,David Bowie,,The Laughing Gnome
+352069,The Notorious B.I.G., Missy Elliott,,Ultimate Rush (feat. Missy Elliott)
+352070,20TOKENS,,РОЗОВЫЕ СНЫ
+352071,Edmund Jolliffe,,Hold Me
+352072,David Bowie,,Bring Me the Disco King (Live)
+352073,David Bowie,,Survive
+352074,Thomaz, Gustavo Elis,,Alma Gemela
+352075,Fabri Fibra,,Che Cazzata
+352076,Candan Erçetin,,Bahar
+352077,Alandon,,Middle Sextion
+352078,20TOKENS,,Black-Grey
+352079,David Bowie,,Leon Take Us Outside
+352080,שמחה פרידמן,,אזמר בשבחין
+352081,Fabri Fibra,,Mal Di Stomaco
+352082,David Bowie,,Rebel Rebel (Live Montreal '87, 2018 Remaster)
+352083,Edmund Jolliffe,,Sleep My Child
+352084,NEEDTOBREATHE,,Sunshine
+352085,Danny Ocean,,Apartamento
+352086,Snoop Dogg, Kendrick Lamar, Rick Ross,,I'm Ya Dogg (feat. Kendrick Lamar & Rick Ross)
+352087,Lit Lords,,OHAWU
+352088,White Denim,,King Tears
+352089,David Bowie,,Glass Spider (Live Montreal '87, 2018 Remaster)
+352090,Diego & Victor Hugo,,Desbloqueado (Ao Vivo)
+352091,Letieres Leite Quinteto,,Mestre Moa do Katendê
+352092,Charly Black, Ne-Yo, Spice,,Over Again (Remix)
+352093,Vybz Kartel,,Ignite the World
+352094,Anni B Sweet,,Shiny Days
+352095,Relaxing Piano Crew,,Soothed by Sight and Smiles
+352096,Mbosso, Reekado Banks,,Shilingi
+352097,The Crystal Method,,Holy Arp
+352098,David Bowie,,The Dreamers (Omikron: The Nomad Soul Longer Version)
+352099,Sezen Aksu,,Seni Gidi Vurdumduymaz

@@ -1,0 +1,100 @@
+100000,Vortex, BigSam,,Torture 2 (feat. BigSam)
+100001,VieL,,Tears of Joy
+100002,Yesung,,Corazón Perdido (Lost Heart)
+100003,Dua Lipa,,IDGAF
+100004,Locksmith, Jon Connor,,Angels & Demons
+100005,Claudius Kantner,,We Met
+100006,Lacuna Coil,,You Love Me 'Cause I Hate You
+100007,Julia Gargano,,You Don't Get To (Stripped)
+100008,Foster the People,,Pseudologia Fantastica
+100009,Cascada,,Miracle (Shinzo Remix)
+100010,Davide Caprelli,,Acheropita
+100011,Rilès,,E A VERDADE
+100012,Sun Ra,,The Beginning
+100013,Julián Estrada,,Esa Noche Fría (Seguirilla)
+100014,Inon Zur,,Mages
+100015,Angelillo,,Soy un Pobre Presidiario (Remastered)
+100016,Il Volo,,Arrivederci Roma
+100017,Kris Bowers,,Lullaby Of Birdland
+100018,Antonio Mairena,,Como Reluce Triana
+100019,Wildways, CVLTE,,Bombs & Kisses (feat. CVLTE)
+100020,Tomas Pavon,,Que Le Llaman la Alcazaba
+100021,The Ways,,Eshgh Bazi
+100022,Sean Tizzle,,Duro
+100023,Antonello Rondi,,Santa lucia luntana
+100024,White Punk, Платина,,СОСА
+100025,Jess Glynne,,I'll Be There (Cahill Remix)
+100026,Kabza De Small, DJ Maphorisa, Njelic,,Umsholozi
+100027,Sebastian Krieg, Roman F.,,Kryptonite (Original Mix)
+100028,Hausman, Wynnwood,,Catharsis
+100029,99zed, Saliva Grey,,Deliberately Inhaling Contents Can Cause Death
+100030,Dariush Rafi'ee,,Mastaneh
+100031,Hong Dae Sung,,Awaken (Another Take)
+100032,Baligh Hamdi,,Zay Elhawa
+100033,Kenny Loggins,,Footloose
+100034,Born Of Osiris,,Automatic Motion
+100035,K.I.Z, Henning May,,Hurra die Welt geht unter
+100036,Faith No More,,As the Worm Turns
+100037,Caitlin Myers, Lilypichu, Annapantsu, Lizz Robinett,,Never Gonna Give You Up (Japanese Version)
+100038,David Bisbal, Aitana,,Si Tú La Quieres
+100039,Ricardo Arjona,,Viaje
+100040,Parham Potki, Ali Owj,,Miram Be Khoone
+100041,N.A.S.A.,,Hide (Tropkillaz Remix) [feat. Childish Gambino & Aynzli Jones]
+100042,Ludovico Einaudi,,Reverie
+100043,Mark Ashley,,Gimme Gimme Money
+100044,Elvis Presley,,Shake, Rattle and Roll
+100045,Little Baby Bum Rima Niños Amigos,,Uno, Dos, Tres, Cuatro, Cinco una Vez Atrapé un Pececito
+100046,Angélique Kidjo,,Awan N' La
+100047,Angélique Kidjo,,Arouna
+100048,Angélique Kidjo,,Emma
+100049,Little Baby Bum Rima Niños Amigos,,María Tenía un Corderito
+100050,Richard Yongjae O'Neill, Joy of Strings,,Evening Song From 'The Fishermen' Suite
+100051,Pamfalon,,Yene New
+100052,Medina Azahara,,Tan solo vives
+100053,Angélique Kidjo,,Papa
+100054,Richard Yongjae O'Neill, Joy of Strings, Jintack Kim,,Nocturnes - Andantino
+100055,Oliver 'Tuku' Mtukudzi,,Minamato Yedu
+100056,Xaniar Khosravi,,Age Mimoondi (Acoustic Version)
+100057,Ada Band,,Karena Wanita (Ingin Dimengerti)
+100058,DBRA,,Daydream
+100059,Kna-Lo Venge,,Cicero
+100060,María Jesús Bernal,,Fiesta
+100061,Miguel Borrull, Luís Maravillas, Manolo de Badajoz, Jose Cepero,,Con mi Caballo Lucero
+100062,Edward Ashcroft, Paul Vials, B.J. Smith,,Chene Lana
+100063,Nitro,,Sassi e diamanti
+100064,Kaisaschnitt,,Guter Kamerad
+100065,Dela, Sauti Sol,,Mama Papa feat. Dela
+100066,Nicole Cross,,More Than Friends
+100067,Vineeth Sreenivasan, Arjun,,Friend Forever
+100068,Abafana Baseqhudeni,,Siyabuza Bafana
+100069,Luis M, MYDA,,Brainchild
+100070,Facção Central,,A Marcha Fúnebre Prossegue
+100071,Gareth Emery,,Elise (tofû Remix)
+100072,Vincenzo Bles,,Tu
+100073,Aperture Science Psychoacoustic Laboratories,,Still Alive
+100074,LANY,,Dumb Stuff
+100075,The Alexandrov Red Army Chorus, Maxim Maklakov, Igor Raevsky, Nikolay Kirillov, Maxim Maklakov,,Dark-Eyed Cossack Girl
+100076,Bad Meets Evil,,Welcome 2 Hell
+100077,Pedro Aznar,,Quebrado
+100078,Alvaro Soler,,Cuando Volveras
+100079,JP Cooper,,Holy Water
+100080,The Wanted,,Glad You Came
+100081,Richard Yongjae O'Neill, Joy of Strings,,Romance No.1
+100082,LANY,,The Breakup
+100083,Richard Yongjae O'Neill, Joy of Strings,,Romance From 'The Gadfly' OP.97a: Suite
+100084,La Bouche,,Be My Lover
+100085,Pamfalon,,Beqa Infata 420
+100086,Little Baby Bum Rima Niños Amigos,,La Pastorcita
+100087,2 Unlimited,,No Limit (Original Mix)
+100088,Richard Yongjae O'Neill, Jintack Kim,,LightHouse Keeper
+100089,Alvaro Soler, PATY CANTÚ,,Libre
+100090,Little Baby Bum Rima Niños Amigos,,Truco o Trato
+100091,Captain Jack,,Captain Jack (Short Mix)
+100092,Medina Azahara,,Aqui Me Tienes Hoy
+100093,Annalisa,,Dieci
+100094,Pedro Aznar,,Lina de Luto
+100095,Richard Yongjae O'Neill, Joy of Strings, Jintack Kim,,La Romanesca
+100096,DJ Sequenza,,Rhythm of Love (Original Radio Edit)
+100097,Richard Yongjae O'Neill, Joy of Strings, Hyun Woong Lee,,Player
+100098,Pedro Aznar,,Fugu
+100099,Alvaro Soler,,Agosto

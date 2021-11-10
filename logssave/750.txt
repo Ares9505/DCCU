@@ -1,0 +1,100 @@
+75000,Afroto,,كندا
+75001,Pete Tong, HER-O, Jules Buckley, Grace Carter, Langa Mavuso,,7 Seconds
+75002,Rare Americans,,Hullabaloo
+75003,Coldplay, The Chainsmokers,,Something Just Like This (Jai Wolf Remix)
+75004,Greg Yoder,,Things Were so Easy
+75005,Greta Van Fleet,,Highway Tune
+75006,Eluveitie,,Celtos
+75007,Funkstar De Luxe,,Do You Feel (Metrik Remix)
+75008,Aarif Jaman,,Hijaaz Yamani
+75009,El Niño de Agujetas,,A Mi Madre Ví Llorar (Tientos)
+75010,Cb13,,Marielle Presente
+75011,Mabanua,,The theme of Gansaku Nanbu
+75012,Andra, Descemer Bueno,,Camarero
+75013,Black Rose Beatz,,Tyga (Beat)
+75014,LUDMILLA, Anitta,,Favela chegou
+75015,やなぎなぎ,,color capsule
+75016,Ghali,,DNA
+75017,Ludovico Einaudi,,Mountain
+75018,Blue Claw Philharmonic,,Symphony No. 5 (Trap Remix) [Beethoven 5th Symphony Trap Music Mix]
+75019,Samari,,Nociva
+75020,Extremoduro,,Deltoya (Versión 2004)
+75021,Nirvana,,Heart-Shaped Box
+75022,Healy,,Chaparral
+75023,Delia Fischer, Ney Matogrosso,,Blues de Acabar
+75024,Phil Beaudreau,,Won't Get Away
+75025,El Maestro Dario y Su Acordeón,,Contando las Estrellas (Fox Trot)
+75026,Talking Heads,,Pull up the Roots (2005 Remaster)
+75027,Bukkha, Don Fe,,A Burial (Soundbwoy Gets His Wings) (Original Mix)
+75028,Los Broncos de Reynosa,,Valentín de la Sierra
+75029,Hayden James, Running Touch,,Better Together
+75030,Hoshi,,Après coups
+75031,Boban i Marko Markovic Orkestar,,Maruska
+75032,HA-ASH,,Me Entrego a Ti (En Vivo)
+75033,Flo Rida,,Turn Around (5,4,3,2,1) (Nicky Romero Remix)
+75034,Extremoduro,,Bulerías de la sangre caliente (Versión 2004)
+75035,Dresden Philharmonic Orchestra,,Symphony No. 9 in D Minor, Op. 125, Choral, 3. Adagio Molto E Cantabile
+75036,Destroy Rebuild Until God Shows,,Graveyard Dancing
+75037,Phil Beaudreau,,Dreams
+75038,Rayhon,,Tomchi
+75039,Ludovico Einaudi,,Logos
+75040,Ramon Ayala Y Sus Bravos Del Norte,,Dame Tu Amor
+75041,Family Force 5,,Replace Me
+75042,Dresden Philharmonic Orchestra,,Symphony, No. 4 in B Flat, Op. 60, 2. Adagio
+75043,Manchester Orchestra,,Obstacle
+75044,Radikal Guru, Tenor Youthman,,Radical (Original Mix)
+75045,Hoshi,,Poupée russe
+75046,Ghali,,Cuore a Destra
+75047,Ghali,,22:22
+75048,Punchline,,Stop
+75049,Ludovico Einaudi,,ABC
+75050,Los Broncos de Reynosa,,Simón Blanco
+75051,The Dresden Dolls,,Girl Anachronism
+75052,Dresden Philharmonic Orchestra,,Symphony, No. 5 in C Minor, Op. 67, 4. Allegro
+75053,Ghali,,Scooby
+75054,Земфира,,Без шансов
+75055,Hoshi,,Je vous trouve un charme fou
+75056,KAROL G,,Mi Cama
+75057,Healy,,Python
+75058,Alex Rose, Cazzu, Rauw Alejandro, Lenny Tavarez,,Toda (Remix)
+75059,Olli Mustonen,,Children's Album, Op. 39, TH 141 : 18. Neapolitan Song
+75060,24kgoldn,,Love Or Lust
+75061,Bad Meets Evil,,Above The Law
+75062,Pierre Hantaï,,Sonata in D minor, K 141
+75063,Ahmad Jamal,,I Just Can't See for Lookin
+75064,Wax,,10001b
+75065,Color Tango,,Arrabal (Instrumental)
+75066,Union Square,,On My Own
+75067,Ludovico Einaudi,,Twice
+75068,Piano Dreamers,,Levitating (Instrumental)
+75069,BEAM,,UNDA ARMOR
+75070,Justin Bieber,,All Around Me
+75071,K. J. Yesudas,,Oru Meghanadam
+75072,El Niño de Agujetas,,Esto Que Hago Contigo (Soleá)
+75073,Marilyn Manson,,Tattooed In Reverse
+75074,Brooke Fraser,,Albertine
+75075,Caracol Televisión, Juan C. Triana,,Paz y Tranquilidad
+75076,DUKI,,Lebron
+75077,Def Leppard,,Tear It Down
+75078,Lipps Inc.,,Funkytown (Single Version)
+75079,El Cholo Ortiz,,Dolor de Ausencia (Pista)
+75080,Tarkan,,Vazgeçemem
+75081,Zouk Machine,,Maldòn (Version originale)
+75082,James Ingram,,There's No Easy Way
+75083,Zviad Mgebry,,Tchrelo Pepela
+75084,Theus Mago, Mijo,,Ustedes Los Ricos
+75085,Boris Apostolov,,Pathetique Sonata, Pt. 2
+75086,Aarif Jaman,,Bayati
+75087,Música de Cámara JLC,,Largo, del Trío Fantasma en Re mayor: Largo assai ed expresivo
+75088,Simple Minds,,Hypnotised (2002 Digital Remaster)
+75089,Anuel Aa, Zion,,Hipócrita
+75090,Hadi Pakzad, Masoud Fayyazzadeh,,There's Nothing
+75091,El Cholo Ortiz,,Contando Las Estrellas (Pista)
+75092,El Cholo Ortiz,,Payaso (Pista)
+75093,Thomas Doherty,,Till It Hits the Ground
+75094,Zviad Mgebry, Tinatin Babakishvili,,Zhuzhuna Tsvima
+75095,Tiffany,,All This Time
+75096,El Cholo Ortiz,,Muchachita del Campo (Pista)
+75097,Hadi Pakzad, Masoud Fayyazzadeh,,Fascinating Flower
+75098,El Cholo Ortiz,,Déjame Morir (Pista)
+75099,Will To Power,,Baby, I Love Your Way/Freebird

@@ -14,18 +14,19 @@ import multiprocessing
 
 
 def single_convert(audio,base_dir, source_dir, storage_dir, tags):
-	
-	audio_converted = audio.export(
+	try:
+		audio_converted = audio.export(
 					storage_dir, 
 					format = "ogg",
 					 bitrate="96000",
 					 tags = tags #adding audio_metadata
 					 )
 
-	logging.info("{0} converted".format(source_dir))
-
-	#handling duplicate error at converted folder
-	try:		
+		logging.info("{0} converted".format(source_dir))
+	except:
+		print("Problem ocurr with convertion")
+	#handling duplicate error at converted fold		
+	try:
 		shutil.move(storage_dir, base_dir + "/converted/")
 	except:
 		logging.info(f'{Path(storage_dir).name} deleted post convertion, already exist in converted folder ')
@@ -93,7 +94,7 @@ def convert_media(base_dir: Path, pagination: int):
 					logging.warning("The file located at" + paths + "was not converted")
 					errors_counter +=1
 					logging.info("{0} processed to convert".format(source_dir))
-				
+					os.remove(source_dir)
 				
 				counter+=1
 				if counter == pagination:
@@ -172,18 +173,23 @@ def file_partial_encode_base64(file_path, base_dir): #se codificaran los 100 pri
 		file_to.write(data_encoded)
 
 	#Adding original metadata
-	setxattr(
+	try:
+		setxattr(
 		encoded_files_paths,
 		"user.artist",
 		bytes(original_audio_tags.artist,'utf-8'), # the atribute most by a byte-like object
 		)
 	
-	setxattr(
+		setxattr(
 		encoded_files_paths,
 		"user.title",
 		bytes(original_audio_tags.title,'utf-8'), # the atribute most by a byte-like object
 		)
-
+	except:
+		os.remove(encoded_files_paths)
+		logging.info(f'File  without metadata {file_path} deleted')
+		os.remove(file_path)
+		return
 	try:
 		shutil.move(encoded_files_paths, base_dir + "/encoded" )
 		logging.info(f'{file_path} was encoded')
@@ -253,7 +259,7 @@ if __name__ == "__main__":
 	
 	# print(magic.from_file("encoded")) #para saber el tipo de archivo
 	
-	os.path.exist()
+	
 
 
 #Tareas

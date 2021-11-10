@@ -1,0 +1,100 @@
+80000,Dazzle Vision,,Rain Forest
+80001,Busta Rhymes, Mary J. Blige, Missy Elliott, Rah Digga,,Touch It (Remix/Featuring Mary J. Blige, Rah Digga & Missy Elliot Explicit)
+80002,lùisa,,Come Around
+80003,Jesús Méndez,,Fandangos
+80004,Sech,,Wao
+80005,TY1, Rkomi,,AMY (feat. Rkomi)
+80006,Miradey,,Sayonara (Cc.k Remix Edit)
+80007,Nikish, Dj Beeman,,Pray
+80008,Love,,You Set the Scene (2015 Remaster)
+80009,Ahmad Jamal,,I Wish I Knew
+80010,Caracol Televisión, Gelo Arango,,De Donde Vengo
+80011,Fátima Pinto,,Hola, ¿Qué Tal?
+80012,Ricky Ross,,Threatening Rain
+80013,Los Chiquitos de Algeciras,,Seguiriyas gitanas (2016 Remaster)
+80014,Danny Elfman,,Closing
+80015,Winona Oak, Robin Schulz,,Oxygen (Dario Rodriguez Remix)
+80016,lùisa,,Belong
+80017,Sandy Rivera, Aruhtra, April Morgan,,Love Somebody Else (Sandy Rivera & Aruhtra's Mix)
+80018,Sullivan King,,Don't Care (Unplugged)
+80019,Arcade Fire, Owen Pallett,,Dimensions
+80020,Benny Hinn,,His Eye Is on the Sparrow
+80021,Johnnie & Joe,,Over The Mountain, Across The Sea
+80022,Eden Ben Zaken,,כשתבוא
+80023,Manuel Centeno,,Saeta Sevillana
+80024,Rafael Romero, Perico el del Lunar, Andrés Heredia, Pepe de Almería, Rogelio Reguera, Antonio Sierra, Justo de Badajoz, Vargas Araceli, Triguito,,Sevillanas II
+80025,James Taylor,,Our Town
+80026,Rafael Romero, Perico el del Lunar, Andrés Heredia, Pepe de Almería, Rogelio Reguera, Antonio Sierra, Justo de Badajoz, Vargas Araceli, Triguito,,Tientos III
+80027,Rafael Farina,,Martín Amor
+80028,Rites of Spring,,All There Is
+80029,Jessica Lowndes,,Goodbye
+80030,Caparezza,,Sfogati
+80031,José Luis Cortés y NG La Banda,,Deja la Mala Noche
+80032,Tyler Bates,,Plasma Ball
+80033,Moux,,heart pieces
+80034,Magnum Opus, Mayot,,Vремя
+80035,The Black Keys,,Howlin' for You
+80036,Jean-Joël Barbier,,Le fils des étoiles : Prélude du premier acte: La vocation
+80037,Jesús Méndez,,Alba (Bulerías)
+80038,Sasha Grey as Wife,,Fantasmas
+80039,Katy Reynolds,,Healing
+80040,StoneBridge, Therese,,Take Me Away (2018 Remaster)
+80041,Magnum Opus,,Zoloto
+80042,Peña Flamenca Femenina De Huelva,,Abre puertas y cerrojos
+80043,Groove Armada, Todd Edwards,,Lover 4 Now (feat. Todd Edwards) (Edit)
+80044,Carmen Linares,,Sevillanas de Lorca
+80045,P!nk,,More
+80046,Trivium,,A Gunshot to the Head of Trepidation
+80047,Rafael Romero, Perico el del Lunar, Andrés Heredia, Pepe de Almería, Rogelio Reguera, Antonio Sierra, Justo de Badajoz, Vargas Araceli, Triguito,,Bulerías V
+80048,Phil the Beat, ILIRA,,Anytime
+80049,Alas, Ada Liz,,FREAKIN'
+80050,Humn_Error,,Self-driving Cars (Bots Remix)
+80051,Tina Turner,,A Fool in Love
+80052,Caparezza,,Campione Dei Novanta
+80053,Carmen Linares,,La Tana Y La Juana
+80054,The Smiths,,Please, Please, Please, Let Me Get What I Want
+80055,Trias,,Enjoy the Silence
+80056,Doria,,Zapatos de Cristal
+80057,Slipknot,,Surfacing
+80058,Los Wálters,,Ven
+80059,Kryder, Nino Lucarelli,,Stay With Me (ALAS Remix)
+80060,Rafael Romero, Perico el del Lunar, Andrés Heredia, Pepe de Almería, Rogelio Reguera, Antonio Sierra, Justo de Badajoz, Vargas Araceli, Triguito,,Fandangos de Almería
+80061,Coopex, MØRFI, Britt Lari,,Outside
+80062,Carmen Linares,,Cada Vez Que Paso
+80063,Carmen Linares,,Llegó Con Tres Heridas 
+80064,Los Hermanos Del Rap, El Philippe, Natan El Profeta,,Trap Árabe
+80065,Alkaline,,One More Time
+80066,Vale Ramirez,,No Me He Olvidado
+80067,Meluda,,say less
+80068,Los Hermanos Del Rap, El Philippe,,Se Acabó La Fiesta
+80069,Dr Honey,,Collateral
+80070,Call,,Teri Haar Hum
+80071,TY1, Massimo Pericolo,,ADESSO (feat. Massimo Pericolo)
+80072,Xploding Plastix,,Funnybones & Lazylegs
+80073,NES, Nesrine, Matthieu Saglio, David Gadea,,Priere
+80074,Rafael Romero, Perico el del Lunar, Andrés Heredia, Pepe de Almería, Rogelio Reguera, Antonio Sierra, Justo de Badajoz, Vargas Araceli, Triguito,,Garrotin II
+80075,Matthieu Saglio, Bijan Chemirani,,L'appel Du Muezzin
+80076,Los Chiquitos de Algeciras,,Llorando gotas de sangre (Tientos de Cádiz; 2016 Remaster)
+80077,Tyler Bates,,Groot Spores
+80078,Alemán, Elijah King,,Lifestyle
+80079,Andy Mineo, Marty of Social Club,,Paisano's Wylin'
+80080,Jill Andrews,,Stepping Out
+80081,Lady Gaga,,Beautiful, Dirty, Rich
+80082,NEIKED, Kes Kross, Jackson Penn,,Sometimes
+80083,Tyler Bates,,Guardians United
+80084,David Penn,,The Heat
+80085,Daeria,,Lestat
+80086,Rafael Romero, Perico el del Lunar, Andrés Heredia, Pepe de Almería, Rogelio Reguera, Antonio Sierra, Justo de Badajoz, Vargas Araceli, Triguito,,Sevillanas I
+80087,Wilson, ManyFew, Kelli-Leigh,,No More Chances (If You Really Love Somebody) (ManyFew Remix)
+80088,David Bowie,,Afraid
+80089,Kwaku DMC,,ShAke It
+80090,Los Tipitos,,El Poli
+80091,Jill Andrews,,Apologize
+80092,Ahmad Jamal,,Comme Ci, Comme Ca
+80093,Kato,,Apple Seed
+80094,King Deco,,Read My Lips (NOTD Remix)
+80095,Ahmad Jamal,,I'll Never Stop Loving You
+80096,EGOR MUF, SHIMMI,,Дихотомия, Ч. 1
+80097,Anyelo Style,,Me Volveré Millonario
+80098,Norman Greenbaum,,Children Of Paradise
+80099,White Moth Black Butterfly,,The Dreamer

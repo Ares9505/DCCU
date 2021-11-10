@@ -1,0 +1,100 @@
+220600,Bon Jovi,,Always
+220601,Rodolfo Aicardi, Los Hispanos,,Masculino y Femenino
+220602,Gaspard Augé,,Force majeure
+220603,Tommee Profitt, Laney Jones,,Be Careful
+220604,Armando Hernandez, Los Corraleros De Majagual,,La Cosita
+220605,Hans Zimmer,,Gun Barrel
+220606,Crossroads Performance Tracks,,Great Things (Performance Track High without Background Vocals in E)
+220607,Rodolfo Aicardi, Los Hispanos,,El Casado Arrepentido
+220608,Rodolfo Aicardi,,El Tiempo Que Te Quede Libre
+220609,Ivandro,,Bad Man
+220610,Rodolfo Aicardi,,Sé Que Perdí
+220611,Rodolfo Aicardi, Los Bestiales,,Marchandito
+220612,Buddhadev Dasgupta,,Chayanat
+220613,Rodolfo Aicardi,,Limoncito Con Ron
+220614,Chris Rea,,The Blue Cafe
+220615,Lucky Dube,,Reggae Strong
+220616,Stefan Milenkovich,,Alessandrina No. 3
+220617,Ultimate Tribute Stars,,Wiz Khalifa - California (Instrumental Version)
+220618,Anabel Englund, yotto,,Waiting For You
+220619,Axwell /\ Ingrosso,,Thinking About You (Festival Mix)
+220620,Banda MS de Sergio Lizárraga,,Dime
+220621,Rodolfo Aicardi,,Vestido Mojado
+220622,Sickick,,Talksick 4 Mashup
+220623,Banda MS de Sergio Lizárraga,,Altamente Probable
+220624,Usher, Lil Jon, Ludacris,,Yeah! (feat. Lil Jon & Ludacris)
+220625,Rodolfo Aicardi, Los Hispanos,,Feliz Nochebuena
+220626,Crossroads Performance Tracks,,We're Not Gonna Bow (Demonstration in Ab)
+220627,Carolina Marquez, Dj Matrix, DJ Maxwell, Moova,,Vinci un viaggio (Ecuador) (feat. Moova)
+220628,Kush Kush,,I'm Blue (Club Mix)
+220629,AURORA,,Queendom (B.Traits Remix)
+220630,Gaspard Augé, Justice,,Hey!
+220631,Rodolfo Aicardi, Los Hispanos,,Ya Se Marchó (Mejor Para Mí)
+220632,Rodolfo Aicardi, Los Liricos,,No Retornes
+220633,Banda MS de Sergio Lizárraga,,Gracias Por Eso
+220634,Rodolfo Aicardi,,El Gorrión
+220635,Rodolfo Aicardi, Los Liricos,,Disimula
+220636,Gaspard Augé, Justice,,Vox
+220637,Los Corraleros De Majagual, Armando Hernandez,,La Potra Zaina
+220638,Mark Mothersbaugh, Wataru Hokoyama,,Urfdah Mesa Major
+220639,Demi Lovato,,The Kind Of Lover I Am
+220640,Rodolfo Aicardi,,Cinco Ases
+220641,Armando Hernandez,,Mirame Fijamente
+220642,Егор Летов,,Солдатами не рождаются
+220643,Banda MS de Sergio Lizárraga,,No Me Interesa
+220644,Thiago Pantaleão, Danny Bond,,Te Deixo Crazy
+220645,Omid Lotfi,,Tashvish
+220646,Demi Lovato,,15 Minutes
+220647,Lucky Dube,,Jah (Live)
+220648,Zeca Pagodinho,,Esta Melodia (Ao Vivo)
+220649,Mac Demarco,,No Other Heart
+220650,Zeca Pagodinho,,Então Leva (Ao Vivo / Bonus Track)
+220651,Rodolfo Aicardi,,Vida
+220652,Buena fe,,Nacimos Ángeles
+220653,Nishtiman Project,,Alaveysi
+220654,Crossroads Performance Tracks,,Getcha To The Other Side (Demonstration in Bb)
+220655,Rodolfo Aicardi,,La Amarra Hombres
+220656,Phish,,Rift
+220657,Gaspard Augé, Justice,,Casablanca
+220658,Dayglow,,Moving Out
+220659,Zeca Pagodinho, Jorge Ben Jor,,Quando Eu Contar Iaia / Hei De Guardar Teu Nome / Vou Lhe Deixar No Sereno / Quem Sorriu Foi A Patroa / Bagaço Da Laranja (Ao Vivo)
+220660,Gaspard Augé, Justice,,Lacrimosa
+220661,Gaspard Augé, Justice,,Pentacle
+220662,Rodolfo Aicardi,,Somos Iguales
+220663,Antonio José,,A Un Milímetro De Ti
+220664,Mac Demarco,,I've Been Waiting for Her
+220665,Zeca Pagodinho,,Jura (Ao Vivo)
+220666,Dayglow,,Into Blue
+220667,Sickick,,Say My Name
+220668,Deepend, Griff Clawson,,Beautiful
+220669,Hooverphonic,,The Wrong Place
+220670,The Fall of Troy,,The Dark Trail
+220671,The All-American Rejects,,Real World
+220672,Zeca Pagodinho,,Vai Vadiar (Ao Vivo / Bonus Track)
+220673,Alireza Ghorbani,,Mahtab-E Tar Az Baran (LIVE)
+220674,İbrahim Tatlıses,,Yallah Şöför
+220675,Parvin,,Shekayat Az Del
+220676,Giulia Sara Salemi, Dj Matrix,,Insieme a te
+220677,Cantantes De Dios,,Alabare...Alabare
+220678,Anthrax,,Suzerain
+220679,Rodolfo Aicardi,,Vamos a Platicar
+220680,Amarion,,Not Really
+220681,Corrosion of Conformity,,Technocracy
+220682,Polo & Pan,,Les jolies choses
+220683,Corrosion of Conformity,,Technocracy
+220684,Los Hispanos & Rodolfo Aicardi,,Mariabela
+220685,Banda MS de Sergio Lizárraga,,No Soy Como Piensas
+220686,Joshua Aaron,,HalleluYah
+220687,Los Bukis,,Mi Mayor Necesidad
+220688,Vidyadhar Vyas,,Gorakh Kalyan
+220689,Putak,,Donyaye Vaghei
+220690,The Fall of Troy,,Quarter Past
+220691,Nena,,Nur geträumt
+220692,Oscar Salguero,,New York City Evening Sax
+220693,Nosso Sentimento,,Caído de Amor (Ao Vivo)
+220694,Zeca Pagodinho,,Vivo Isolado Do Mundo (Ao Vivo / Bonus Track)
+220695,Banda MS de Sergio Lizárraga,,Antecedentes
+220696,Corrosion of Conformity,,Hungry Child
+220697,Paul Wilbur,,Even So (Live)
+220698,Bobby Brackins,,Faithful (feat. Ty Dolla $ign)
+220699,Armando Hernandez, El Combo Caribe,,El Tiempo Que Te Quede Libre

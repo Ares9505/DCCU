@@ -40,7 +40,7 @@ def upload(
 
 
 if __name__ == "__main__":
-	logging.basicConfig(level=logging.INFO)
+	logging.basicConfig(level=logging.ERROR)
 	base_dir = os.getcwd()
 	converter_pagination = 64
 	encoding_pagination = 1

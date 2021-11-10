@@ -1,0 +1,100 @@
+50000,Vicente Soto Sordera,,No Te Lo Vendo (Tangos)
+50001,Father John Misty,,Ballad of the Dying Man
+50002,Juanito Villar,,El barquito
+50003,El Cojo de Málaga, M.Borrull,,La vuelta que el mundo da (taranta)
+50004,La Marelu,,De una Pentia Muy Grande
+50005,Angelillo,,En Su Propia Salsa
+50006,Juanito Maravillas, Juan Antonio España,,El Engaño de la Vida (Fandangos)
+50007,Gydra, Ihr,,Wipe
+50008,David Frankel,,יה ריבון - באבוב
+50009,Various Artists, Mick Gordon,,Blazko Kill the Nazis
+50010,Ismael Rivera Y Sus Cachimbos,,Mi Música
+50011,Paco Toronjo,,En el Alosno Naci
+50012,Pericon de Cadiz,,Cuando yo me muera. Seguiriyas de Manuel Molina y Francisco la Perla
+50013,Mohammadhashem Ahmadvand, Behrooz Alvandipoor,,Dastgahe Rast Panjgah
+50014,Brad Mehldau,,Madrid
+50015,Los Hermanos Toronjo,,Sevillanas de la cruz
+50016,Brad Mehldau,,Free Willy
+50017,Hussein Al Deek,,Mahlaki
+50018,El Pali,,La aldea de Valdeflores
+50019,Juanito Maravillas,,Vi una Jardinera un Dia
+50020,Grupo Flamenco El Cortijo De La Braulia, Antonio Arenas, Paco del Gastor, Enrique Escudero,,Guajira Para Tres Guitarras (Guajira)
+50021,Kid Cudi, Ratatat,,Alive (Nightmare)
+50022,Wayward,,Casper Pt. I
+50023,El Chocolate,,La enfermedad de quererte (Bulerías)
+50024,Angelillo,,Cómo Reluce
+50025,Pansequito,,No me habías de conocer (Malagüeña)
+50026,Brad Mehldau,,VI. uncertainty
+50027,Manolo Caracol,,Fandangos 1
+50028,Fosforito,,Que Cuentas Puedes Pedir
+50029,Juan Francisco Padilla,,Rondeña
+50030,Vicente Soto Sordera,,Soleá Alfarera
+50031,Marjan,,Jofte Soleyman
+50032,Julio Iglesias,,Momentos
+50033,Malaysia Vasudevan,,Prapanjamoru
+50034,Angelillo,,Tengo una Hermanilla Chica (Remastered)
+50035,Mo Et Moi,,The Deep Heart's Core (Dole & Kom Remix)
+50036,LeAnn Rimes,,Can't Fight The Moonlight (Graham Stack Radio Edit)
+50037,La Marelu,,Yo Me Estoy Enamorando
+50038,Caio Fernando,,Reflexões
+50039,Niño Castro, Luisi Galvín, Coro Amanecer, Mª Carmen Benítez,,Aires de la Alameda
+50040,Fernando Terremoto, Parrilla De Jerez,,Dijo Santa Ana
+50041,Pansequito,,Por los rincones (Soleá de Cádiz)
+50042,Kelly Kiara,,Sex Faces
+50043,La Sallago, Ramón de Algeciras,,Paterna de la Rivera: Peteneras
+50044,Various Artists, Blitzmensch!, Copilot Music + Sound,,Blitzmensch!
+50045,Marife De Triana,,La Loba
+50046,Gigi D'Agostino,,Passion
+50047,Manuel Soto Sordera, Paco Cepero,,La Tierra en Que Yo He Nacío (Fandangos del Niño Gloria)
+50048,Nana Mouskouri,,Roses Love Sunshine
+50049,John Silver, D'Argento,,Ecstasy (Chris Reece Remix)
+50050,babychair,,Oh It's You
+50051,Manolo Caracol,,De Caracol a Manolete (Remastered)
+50052,Manolo Caracol, Melchor Marchena,,Seguiriyas 3
+50053,Crimsen,,Lion (Radio Edit)
+50054,Zezé Di Camargo & Luciano,,Salva Meu Coração
+50055,El Chocolate,,Lo Que Yo por Ti Daria
+50056,Türkan Vəlizadə,,Aglima Bir Ad Gelir
+50057,Fosforito,,El Dia Empezo a Clarear (feat. Paco De Lucia)
+50058,Brad Mehldau,,Schloss Elmau
+50059,Bijan Kamkar, Kaveh Sepandar, Ney Bang Ensemble,,Bo Chi Ajim
+50060,Asef Akbari,,Birth for death Death for Brith
+50061,Rockabye Baby!,,That's All Right
+50062,Georg Nielsen,,Tula hem och tula vall
+50063,Pablo Nouvelle, Lulu James,,All I Need
+50064,Kupla,,Lavender
+50065,Vicente Soto 'Sordera' (F),,Dos clavelinas (Bulerías)
+50066,Pesado,,A chillar a otra parte
+50067,The Holeum,,Metempsicosis
+50068,El Pali,,Pintores de Sevilla
+50069,Mohammad Reza Shajarian,,Rahneshin
+50070,La Marelu,,Plegaria
+50071,Naaji,,Boghz
+50072,Manolito María,,Seguirilla (II)
+50073,Paquito Jerez, Pepe Alcoba, Paco Valdepeñas, Enrique Vázquez, Antonia Fuentes, José Barrios, Francisco Alanís,,No Volveré Jamás (Remastered)
+50074,La Sallago, Ramón de Algeciras,,Ni a Contemplarte Me Atrevo: Soleá
+50075,La Perla De Cadiz, Paco Aguilera, Felix de Utrera,,Celos .... Celos (Bulerías)
+50076,Sonora Poncena,,Juana Bayona
+50077,La Perla De Cadiz,,Manuela Rosa Montero
+50078,Los Hermanos Toronjo,,En un jardín
+50079,Angelillo,,Como Reluce (Remastered)
+50080,Anoosh Monfared,,Avaz Abuata, Pt. 2
+50081,Manolo Caracol,,Fiesta Gitana
+50082,La Sallago,,Villancico De Sanlucar
+50083,The Tea Party,,Into the Unknown
+50084,Ulviyye Namazova,,Xəbərdarlıq Edirəm
+50085,Naranjito de Triana,,La Hija del Zapatero
+50086,Fernanda y Bernarda de Utrera,,To aquel que se creyera. Soleá por bulerías y soleares de Frijones y Joaquín el de la Paula
+50087,Manolito María,,Saeta
+50088,Juanito Villar,,Rinconcito gaditano. Alegrías
+50089,José el de la Tomasa,,En la Puerta Hay un Rosal
+50090,Pansequito,,Llegó mi mare llorando
+50091,Los Cadetes De Linares,,El Asesino (En Vivo)
+50092,Paquito Jerez, Pepe Alcoba, Paco Valdepeñas, Enrique Vázquez, Antonia Fuentes, José Barrios, Francisco Alanís,,Espero un Milagro (Remastered)
+50093,The Tiger LilliesDELETED,,Life Is Mean (Greed)
+50094,Fosforito,,Cómo Reluce
+50095,Pansequito,,Una rosa se moría (Bulerías)
+50096,Mac Júlia, Pejota,,Sofa, Breja e Netflix
+50097,Zezé Di Camargo & Luciano,,Te Amar Assim
+50098,Angelillo,,Paco el Minero
+50099,Curro De Utrera, Rafael el Cordobés, Curro de Utrera, Rafael El Cordobes,,Fandangos de Huelva
